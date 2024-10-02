@@ -34,9 +34,9 @@ Hey there! I'm **Swetha G**, a passionate developer and a digital alchemist who 
 ## 📂 **Highlighted Projects**
 Here are some of my favorite projects that showcase my skills and creativity:
 
-- **[Project Name 1](https://github.com/your-username/project1)**: A full-stack MERN application that simplifies X with features like Y and Z. 🚀
-- **[Project Name 2](https://github.com/your-username/project2)**: A React-driven e-commerce site, complete with payment integration and custom user dashboards. 🛍️
-- **[Project Name 3](https://github.com/your-username/project3)**: A powerful backend built with Node.js and MongoDB to manage large datasets with real-time APIs. 📊
+- **[IBM Project](https://github.com/swethaganeshh/IBM_PROJECT)**: A comprehensive project demonstrating AI and data integration for solving real-world problems using IBM’s toolset. 🚀
+- **[Music App](https://github.com/swethaganeshh/MUSIC-APP)**: A full-stack music streaming app built with the MERN stack, featuring a rich user interface and dynamic playlist creation. 🎶
+- **[Exercise Tracker](https://github.com/swethaganeshh/Exercise-Tracker)**: A fitness tracking application that allows users to log exercises, set goals, and monitor progress in real time. 🏋️‍♀️
 
 ---
 
