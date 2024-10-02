@@ -58,7 +58,6 @@ Here are some of my favorite projects that showcase my skills and creativity:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/swethaganesh07/)
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swethaganeshh.github.io/Portfolio1/)
 
-- **Portfolio**: [https://swethaganeshh.github.io/Portfolio1/](https://swethaganeshh.github.io/Portfolio1/)
 
 ---
 
